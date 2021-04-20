@@ -1,0 +1,13 @@
+{
+    "token": "NzgyMjA0NDA2OTE3MzY1Nzkw.X8Iynw.uXtDKUbEwxUBXamYx6dbKVzdPRM",
+    "prefix": "!",
+    "main_color": "0x2f3136",
+
+    "ticket_start_message": "React to start a support ticket",
+    "emoji": "🎫",
+
+    "support_team_role": "797753839548760085",
+    "ticket_caotgory_ID": "805888387311468554",
+
+    "ping_support_team": true
+}
